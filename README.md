@@ -1,2 +1,2 @@
 # Mathematica
-This repository provides with mathematical solutions.
+My this repository provides with mathematical solutions.
