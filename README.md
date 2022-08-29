@@ -1,2 +1,2 @@
-# Mathematica
-My this repository provides with mathematical solutions.
+# GATE23
+Repository for GATE programs and solutions.
